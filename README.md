@@ -41,3 +41,5 @@ USER
 <img width="1830" height="620" alt="Screenshot 2025-09-28 231535" src="https://github.com/user-attachments/assets/588485e6-e95b-4cd3-993c-02d9cb0975d1" />
 **4. Mengubah Password**
 <img width="1187" height="522" alt="Screenshot 2025-09-28 231742" src="https://github.com/user-attachments/assets/b5a92700-9784-40c8-a8e5-b194a672c463" />
+**5. Program Selesai**
+<img width="694" height="217" alt="Screenshot 2025-09-28 231854" src="https://github.com/user-attachments/assets/c8844f28-63e6-4035-9513-85cd2214cedb" />
